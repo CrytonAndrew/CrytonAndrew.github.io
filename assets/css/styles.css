@@ -455,9 +455,9 @@ img {
   .contact__form {
     width: 360px;
   }
-  .contact__container {
-    /* justify-items: center; */
-  }
+  /* .contact__container {
+    justify-items: center;
+  } */
 }
 
 @media screen and (min-width: 1024px) {
