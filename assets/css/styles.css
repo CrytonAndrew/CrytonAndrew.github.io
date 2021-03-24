@@ -351,6 +351,10 @@ img {
   margin-left: auto;
 }
 
+.contact-div {
+  margin-left: 100px;
+}
+
 /* ===== FOOTER =====*/
 .footer {
   background-color: var(--second-color);
@@ -452,7 +456,7 @@ img {
     width: 360px;
   }
   .contact__container {
-    justify-items: center;
+    /* justify-items: center; */
   }
 }
 
