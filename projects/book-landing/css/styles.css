@@ -1,0 +1,135 @@
+body {
+  font-family: "Montserrat", sans-serif;
+}
+
+/*--------- navbar styling ----------------*/
+
+.navbar {
+  padding-top: 20px;
+  padding-bottom: 20px;
+}
+
+.fas {
+  font-size: 20px;
+}
+
+.nav-icons {
+  color: #1eae98;
+}
+
+/*--------- Main Page Styling --------------*/
+#title {
+  background-color: #eeeeee;
+}
+
+.container-margin {
+  margin: 0 5%;
+}
+
+.navbar-brand {
+  font-weight: bold;
+}
+
+.main-title {
+  font-size: 50px;
+}
+
+.main-description {
+  font-size: 20px;
+}
+
+.main-image {
+  max-width: 400px;
+  height: auto;
+  /* margin-left: 10px; */
+  margin-bottom: 50px;
+}
+
+/* About Section  */
+
+#about-section {
+  margin-top: 100px;
+  margin-bottom: 200px;
+}
+
+.about-book-icon {
+  color: #00adb5;
+  font-size: 50px;
+}
+
+.about-book-p {
+  color: #444f5a;
+}
+
+.book-quote {
+  color: #f07b3f;
+}
+
+.vl {
+  border-left: 6px solid #00adb5;
+  height: 50px;
+  position: absolute;
+  right: 50%;
+  right: 150px;
+}
+
+/* Reviews section  */
+
+#reviews-section {
+  padding-top: 100px;
+  padding-bottom: 100px;
+  background-color: #444f5a;
+  margin-bottom: 100px;
+}
+
+.person-review-image {
+  border-radius: 50%;
+  max-width: 50px;
+}
+
+.review-text {
+  text-align: center;
+}
+
+.reviews-carousel {
+  color: #fff;
+}
+
+/* About author section  */
+#about-author-secton {
+  margin-top: 100px;
+  margin-bottom: 200px;
+}
+
+.author-images {
+  max-width: 600px;
+  height: auto;
+}
+
+.about-author-hr {
+  border: 0 none;
+  border-top: 10px solid black;
+  background-color: black;
+  color: black;
+}
+
+/* Contact section  */
+
+#contact-section {
+  margin-top: 100px;
+  background-color: #eeeeee;
+}
+
+.contact-container {
+  padding-top: 100px;
+  padding-bottom: 100px;
+}
+
+.social-links {
+  text-align: center;
+}
+
+.social-links .fab {
+  color: #f07b3f;
+  font-size: 20px;
+}
