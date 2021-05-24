@@ -23,4 +23,12 @@ sr.reveal(".vl", {delay: 200});
 
 
 // Review Section Reveal 
-sr.reveal(".")
+sr.reveal(".review-text", {});
+sr.reveal(".visually-hidden", {delay: 200});
+
+
+// About author Section
+sr.reveal(".about-author-title", {});
+sr.reveal(".about-author-hr", {});
+sr.reveal("author-images", {delay: 200});
+sr.reveal(".about-author-p", {delay: 200});
