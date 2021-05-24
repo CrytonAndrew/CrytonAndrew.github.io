@@ -38,4 +38,4 @@ sr.reveal(".contact-me-title", {});
 sr.reveal(".form-control", {delay: 200});
 sr.reveal(".form-label", {delay: 200});
 sr.reveal(".info-title", {});
-sr.reveal("info-p", {delay: 200});
+sr.reveal(".info-p", {delay: 200});
