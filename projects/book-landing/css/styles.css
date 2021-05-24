@@ -45,6 +45,26 @@ body {
   margin-bottom: 50px;
 }
 
+.sign-up-btn {
+  background-color: #00adb5;
+  border-color: #00adb5;
+}
+
+.sign-up-btn:hover {
+  background-color: #f07b3f;
+  border-color: #f07b3f;
+}
+
+.contact-btn {
+  background-color: black;
+  border-color: black;
+}
+
+.contact-btn:hover {
+  background-color: #f07b3f;
+  border-color: #f07b3f;
+}
+
 /* About Section  */
 
 #about-section {

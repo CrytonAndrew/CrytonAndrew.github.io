@@ -6,6 +6,10 @@ gsap.to(".main-title", {duration: 2, y: 100});
 
 gsap.to(".main-description", {duration: 2, y: 100});
 
+gsap.to(".sign-up-btn", {duration: 2, y: 100});
+
+gsap.to(".contact-btn", {duration: 2, y: 100});
+
 const sr = ScrollReveal({
     origin: "top",
     distance: "80px", 
@@ -39,3 +43,4 @@ sr.reveal(".form-control", {delay: 200});
 sr.reveal(".form-label", {delay: 200});
 sr.reveal(".info-title", {});
 sr.reveal(".info-p", {delay: 200});
+sr.reveal(".submit-form", {delay: 200});
