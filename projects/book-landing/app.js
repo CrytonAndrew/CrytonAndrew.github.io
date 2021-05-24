@@ -5,3 +5,11 @@ gsap.to(".main-image", {duration: 2, x: 200}); // Moves the element from its cur
 gsap.to(".main-title", {duration: 2, y: 100});
 
 gsap.to(".main-description", {duration: 2, y: 100});
+
+const sr = ScrollReveal({
+    origin: "top",
+    distance: "80px", 
+    duration: 2000,
+    reset: true,
+});
+
