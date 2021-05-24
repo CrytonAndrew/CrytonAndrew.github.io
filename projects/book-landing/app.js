@@ -13,3 +13,14 @@ const sr = ScrollReveal({
     reset: true,
 });
 
+
+// About Section Reveal 
+sr.reveal(".about-book-icon", {});
+sr.reveal(".about-book-title", {});
+sr.reveal(".about-book-p", {delay: 200});
+sr.reveal(".about-book-quote", {delay: 200});
+sr.reveal(".vl", {delay: 200});
+
+
+// Review Section Reveal 
+sr.reveal(".")
