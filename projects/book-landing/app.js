@@ -30,5 +30,12 @@ sr.reveal(".visually-hidden", {delay: 200});
 // About author Section
 sr.reveal(".about-author-title", {});
 sr.reveal(".about-author-hr", {});
-sr.reveal("author-images", {delay: 200});
+sr.reveal(".author-images", {delay: 200});
 sr.reveal(".about-author-p", {delay: 200});
+
+// Contact section Reveal 
+sr.reveal(".contact-me-title", {});
+sr.reveal(".form-control", {delay: 200});
+sr.reveal(".form-label", {delay: 200});
+sr.reveal(".info-title", {});
+sr.reveal("info-p", {delay: 200});
